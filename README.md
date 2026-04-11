@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a data enthusiast currently studying at **SAGE University, Bhopal**. Passionate about leveraging data to drive decisions and uncover meaningful insights. I enjoy working with real-world datasets, building dashboards, and continuously growing my analytical toolkit.
+I'm a data enthusiast currently studying a **BCA (AI/DS) Undergraduate**. Passionate about leveraging data to drive decisions and uncover meaningful insights. I enjoy working with real-world datasets, building dashboards, and continuously growing my analytical toolkit.
 
 - 🎯 **Focus:** Data Analysis & Machine Learning
 - 💡 **Goal:** Turning messy data into clear, actionable stories
