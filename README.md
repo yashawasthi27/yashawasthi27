@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:DD2476&height=230&section=header&text=Hi%20There!%20I'm%20Yash%20Awasthi&fontSize=45&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Aspiring%20Data%20Analyst%20%7C%20AI%20Enthusiast%20%7C%20Lifelong%20Learner&descAlignY=60&descSize=20" alt="Yash Awasthi Banner" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=DD2476&center=true&vCenter=true&width=600&lines=Turning+Raw+Data+into+Real+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Upskilling+in+Data+Analytics+%26+ML;Always+Learning,+Always+Growing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=DD2476&center=true&vCenter=true&width=600&lines=Turning+Raw+Data+into+Real+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Upskilling+in+Data+Analytics+%26+AI;Always+Learning,+Always+Growing)](https://git.io/typing-svg)
 
 <br/>
 
@@ -17,9 +17,9 @@
 
 ## 👨‍💻 About Me
 
-I'm a data enthusiast currently studying a **BCA (AI/DS) Undergraduate**. Passionate about leveraging data to drive decisions and uncover meaningful insights. I enjoy working with real-world datasets, building dashboards, and continuously growing my analytical toolkit.
+I'm a data enthusiast currently a **BCA (AI/DS) Undergraduate**. Passionate about leveraging data to drive decisions and uncover meaningful insights. I enjoy working with real-world datasets, building dashboards, and continuously growing my analytical toolkit.
 
-- 🎯 **Focus:** Data Analysis & Machine Learning
+- 🎯 **Focus:** Data Analysis & Data Modeling
 - 💡 **Goal:** Turning messy data into clear, actionable stories
 - 🤝 **Collaboration:** Open to opportunities & networking 
 
