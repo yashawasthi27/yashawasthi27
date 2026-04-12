@@ -1,10 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:009688,100:FFCA28&height=180&section=header&text=Hi%20There!%20I'm%20Yash%20Awasthi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Yash Awasthi" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=009688&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Turning+Raw+Data+into+Real+Insights;AI+Enthusiast;Always+Learning,+Always+Growing)](https://git.io/typing-svg)
-
-<br/>
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-009688?style=flat-square&logo=netlify&logoColor=white)](https://yashportfolio27.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashawasthi27/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yashawasthi27)
