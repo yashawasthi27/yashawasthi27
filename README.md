@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:009688,100:FFCA28&height=180&section=header&text=Hi%20There!%20I'm%20Yash%20Awasthi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Yash Awasthi" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-009688?style=flat-square&logo=netlify&logoColor=white)](https://yashportfolio27.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-009688?style=flat-square&logo=netlify&logoColor=white)](https://yashawasthi27.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashawasthi27/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yashawasthi27)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yashonwork247@gmail.com)
