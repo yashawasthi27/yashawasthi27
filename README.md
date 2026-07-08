@@ -8,15 +8,16 @@
 
 </div>
 
----
+## 👨‍💻 About Me
 
-### 👨‍💻 About Me
+Hi, I’m **Yash Awasthi**, a **BCA AI & Data Science undergraduate** and an aspiring **Data Analyst**.
 
-> I am a data enthusiast currently a **BCA (AI/DS) Undergraduate**. Passionate about leveraging data to drive decisions and uncover meaningful insights. I enjoy working with real-world datasets, building dashboards, and continuously growing my analytical toolkit.
+I enjoy working with real-world datasets, writing SQL queries, building dashboards, and converting raw data into clear business insights. I am currently focused on improving my skills in **SQL, Excel, Power BI, Python, and Data Modeling** through practical end-to-end projects.
 
-- 🎯 **Focus:** Data Analysis & Data Modeling
-- 💡 **Goal:** Turning messy data into clear, actionable stories
-- 🤝 **Collaboration:** Open to opportunities & networking 
+- 🎯 **Career Focus:** Data Analyst / Business Analyst / MIS Analyst roles
+- 📊 **Core Skills:** SQL, Excel, Power BI, Python, Data Cleaning & Dashboarding
+- 🧠 **Currently Building:** End-to-end analytics projects for portfolio and resume
+- 🤝 **Open To:** Internships, fresher opportunities, collaborations, and networking
 
 ---
 
